@@ -1,0 +1,16 @@
+{
+  "name": "qwerty",
+  "version": "0.1.0",
+  "dependencies": {
+    "colors": "*",
+    "express": "*",
+    "jade": "*",
+    "underscore": "*",
+    "morgan": "*",
+    "marked": "*"
+  },
+  "engines": {
+    "node": "*",
+    "npm": "*"
+  }
+}
