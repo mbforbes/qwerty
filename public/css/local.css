@@ -3,3 +3,26 @@
 
 /* Import bootstrap */
 @import url(bootstrap.min.css);
+
+h2 {
+	margin-top: 40px;
+}
+
+.row {
+	margin-bottom: 10px;
+}
+
+.img-bubble {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+body {
+	/*background-color: #222222;*/
+	/*color: #cccccc;*/
+}
+
+.contact {
+	width: 50px;
+}
